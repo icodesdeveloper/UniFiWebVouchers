@@ -5,6 +5,7 @@ UniFi Web Vouchers is a PHP application that lets users generate UniFi hotspot v
 - A web server with PHP and the CURL extension.
 - A UniFi controller and an account on the controller itself with the full permissions.
 - The ID of the site were you want to the create vouchers on.
+
 #Installation
 1. Download the repository and place it on a web server with PHP the CURL module is required.
 
